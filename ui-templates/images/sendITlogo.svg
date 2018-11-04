@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 2405546, 2018-03-11"
+   sodipodi:docname="sendITlogo.svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient4625"
+       inkscape:collect="always">
+      <stop
+         id="stop4621"
+         offset="0"
+         style="stop-color:#008080;stop-opacity:1;" />
+      <stop
+         id="stop4623"
+         offset="1"
+         style="stop-color:#006980;stop-opacity:0" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4615">
+      <stop
+         style="stop-color:#008080;stop-opacity:1;"
+         offset="0"
+         id="stop4611" />
+      <stop
+         style="stop-color:#006980;stop-opacity:0"
+         offset="1"
+         id="stop4613" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4615"
+       id="linearGradient4617"
+       x1="91.313591"
+       y1="60.973091"
+       x2="36.738407"
+       y2="59.899799"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4625"
+       id="linearGradient4619"
+       x1="91.673454"
+       y1="60.733738"
+       x2="36.883194"
+       y2="59.664661"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0206897,0,0,1.2197502,-1.4139881,-14.496633)" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.01"
+     inkscape:cx="-45153.054"
+     inkscape:cy="-2929.2117"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1040"
+     inkscape:window-x="0"
+     inkscape:window-y="20"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g4630"
+       inkscape:export-xdpi="0.71940613"
+       inkscape:export-ydpi="0.71940613"
+       transform="matrix(95.007338,0,0,129.6474,-13150.388,-7973.469)">
+      <text
+         transform="scale(1.003941,0.99607447)"
+         id="text4520"
+         y="66.515892"
+         x="69.803246"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.94281006px;line-height:26.04999924;font-family:'Coda Caption';-inkscape-font-specification:'Coda Caption';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient4617);fill-opacity:1;stroke:none;stroke-width:0.46740723"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.94281006px;line-height:30.04999924;font-family:'Coda Caption';-inkscape-font-specification:'Coda Caption';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient4617);fill-opacity:1;stroke-width:0.46740723"
+           y="66.515892"
+           x="69.803246"
+           id="tspan4518"
+           sodipodi:role="line">SendIT</tspan></text>
+      <rect
+         ry="0.25986004"
+         y="50.781303"
+         x="31.04912"
+         height="15.974103"
+         width="39.555893"
+         id="rect4597"
+         style="opacity:1;fill:url(#linearGradient4619);fill-opacity:1;fill-rule:nonzero;stroke:#3c3600;stroke-width:0;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.28888893px;line-height:26.04999924;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="130.96207"
+       y="84.253456"
+       id="text4609"><tspan
+         sodipodi:role="line"
+         id="tspan4607"
+         x="130.96207"
+         y="234.41888"
+         style="stroke-width:0.26458332" /></text>
+  </g>
+</svg>

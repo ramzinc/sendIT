@@ -1,0 +1,7 @@
+footer>div{
+    bottom:0;
+    left:0;
+    display:flex;
+    position: fixed;
+
+}

@@ -1,0 +1,74 @@
+<!doctype html>
+<html>
+  <head>
+    <title>SendIT</title>
+    <meta charset="UTF-8" />
+    <link rel="stylesheet" href="styles/header.css" />
+    <link rel="stylesheet" href="styles/footer.css" />
+    <link rel="stylesheet" href="styles/body.css" />
+   <link rel="stylesheet" href="styles/modal.css" />
+</head>
+  <body>
+    <header class="nav">
+      <div class="logo">
+	<img src="images/logo.png" alt="senditlogo"/>
+     </div>
+      <div class="signup-div">
+	<a href="#signup"> Sign Up</a>
+	<a href="#login"> Log In </a>
+      </div>
+    </header>
+    <div class="content-body"><!----------- Main Content --->
+
+      <div id="signup" class="modalDialog">
+	
+	<div>
+	  <a href="#" id="close-button">X</a>
+	  <p>
+	  Please Fill In Your Details
+	</p>
+	<form>
+	  <div class="name">
+	  <input id="first-name" type="text" placeholder="first-name">
+	  <input id="last-name" type="text" placeholder="last-name" />
+	  </div>
+	  <div class="email-pass">
+	    <input id="email" type="email" placeholder="email"/>
+	    <input id="password" type="password" placeholder="password"/> 
+	  </div>
+	  <a href="#login"><input id="submit-button"type="submit" /></a>
+	</form>
+	</div>
+    </div>
+
+      <div id="login" class="modalDialog">
+	
+	
+	<div>
+	  <a href="#" id="close-button">X</a>
+	  <p>
+	  Please Enter Your Login details
+	</p>
+	  <form>
+	    <div class="login">
+	    <input id="email" type="email" placeholder="email"/>
+	    <input id="password" type="password" placeholder="password"/>    
+	    </div>
+	    <input id="submit-button"type="submit" />
+	  </form>
+	  </div>
+	 </div>
+	
+	
+	</div><!--- Main Content---->
+	
+    <footer>
+      <div class="footer-div">
+      <address>
+	<a href="mailto:zeus@stark">Olympus Machine</a>
+      </address>
+      </div>
+
+    </footer>
+</body>
+</html>

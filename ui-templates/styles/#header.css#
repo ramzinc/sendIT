@@ -1,0 +1,25 @@
+header{
+    display: flex;
+    box-shadow:-3px 6px 6px #008080;
+    left:0;
+    position :fixed;
+    width: 100%;
+
+}
+.logo>img{
+    height:50px;
+    width:200px;	     
+
+
+}
+
+.logo{
+padding: 10px
+}
+
+.signup-div{
+    right:0;
+    position :fixed;
+    padding:10px;
+}
+

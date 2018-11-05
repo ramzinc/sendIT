@@ -4,7 +4,8 @@
 <meta charset="UTF-8" />
 <link rel="stylesheet" href="styles/header.css" />
 <link rel="stylesheet" href="styles/footer.css" />
-<link rel="stylesheet" href="styles/body.css" />
+<link rel="stylesheet" href="styles/table.css" />
+<link rel="stylesheet" href="styles/modal.css"/>
   </head>
   <body>
   <header class="nav">
@@ -17,29 +18,72 @@
       </div>
   </header>
   <div class="content-body">
-
-    <div class="parcels">
-      <a href="#"><h3>Create Parcel</h3></a>
-      <div class="delivery-order">
-	<div class="order-details">
+    <div class="table-div">
+    <table class="parcels">
+	<thead>
+	    <tr colspan="1000">
+		<th><a href="#create-order">Create Order</a></th>
+	    </tr>
+	  <tr>
+	      <th>Order Details</th>
+	      <th>Pick Up Location</th>
+	      <th> Drop Off Location</th>
+	</tr>
+      </thead>
+      <tbody>
+      <tr class="order-details">
+	  <td>	
 	  <p>
 	    Samsung 1 inch
 	  </p>
-	</div>
-	<div class="order-pickup">
+	  </td>
+	  <td class="pickUp">
+	
 	  <p>
 	    Andela
 	  </p>
-	</div>
-	<div class="order-dropoff">
+	
+	  </td>
+	  <td class="destination">
+	
 	  <p>
 	    SafeBoda
 	  </p>
-	</div>
+	  
+	      <a href="#change-destination">Change</a>
+	
+	  </td>
+	  <td>
+	      <input type="submit" value="delete"/>
+	      
+	 </td>
+      </tr>
+      </tbody>
+      </table>
       </div>
+      <div id="create-order" class="modalDialog">
+	  
+	  <div>
+	      <a id="close-button" href="#">X</a>
+	      <div>
+		  <input type="text" id="order-details" placeholder="Order Details" />
+		  <input type="text" id="order-pickup" placeholder="Pick Up Location" />
+		  <input type="text" id="order-drop" placeholder="Drop Off Locaton" />
+		  
+	      </div>
+	      <input type="submit" value="create">
+	  </div>
+
+	  
       </div>
-      
-  </div>
+      <div id="change-destination" class="modalDialog">
+	  <div>
+	      <a href="#" id="close-button">X</a>
+	      <input type="text" placeholder="Enter New Drop Off"/>
+	      <input type="submit" value="Change"/>
+	  </div> 
+      </div>
+  </div><!---- end content-body --->
   
   <footer>
     <div>

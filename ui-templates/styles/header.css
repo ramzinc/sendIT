@@ -1,6 +1,6 @@
 header{
     display: flex;
-    box-shadow:-3px 6px 6px black;
+    box-shadow:-3px 6px 6px #008080;
     left:0;
     position :fixed;
     width: 100%;

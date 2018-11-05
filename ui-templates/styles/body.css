@@ -1,17 +1,19 @@
-div.content-body{
-    position: relative;
-    top: 100px;
+.content{
+
+    position: absolute;
+    top:20%;
+    left:30%;
+    width:600px;
+    border: solid rgb(0, 128, 128);
+    height:600px;
+    box-shadow: 2px 6px 5px rgba(0, 128, 128,0.8);
     
 }
-.parcels .delivery-order{
 
-    display: flex;
+.text-card{
+    border-top: solid rgb(0, 128, 128);
     
-
-
-}
-div > p{
-    padding: 10px;
+    z-index: 999px;
 
 
 }

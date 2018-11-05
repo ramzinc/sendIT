@@ -1,0 +1,19 @@
+<html>
+  <head>
+<title>Create Parcel</title>
+<meta charset="UTF-8" />
+  </head>
+  <body>
+  <header class="nav">
+      <div class="logo">
+	<img src="images/logo.png" alt="senditlogo"/>
+     </div>
+      
+    </header>
+<h1>Create Parcel</h1>
+
+<address>
+<a href="mailto:zeus@stark">Olympus Machine</a>
+</address>
+</body>
+</html>

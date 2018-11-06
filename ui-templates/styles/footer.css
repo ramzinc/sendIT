@@ -3,5 +3,8 @@ footer>div{
     left:0;
     display:flex;
     position: fixed;
-
+    background-color: grey;
+    width:100%;
 }
+
+

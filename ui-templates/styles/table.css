@@ -1,7 +1,9 @@
+
 table{
-    position: relative;
-    top: 100px;
-    left: 30%;
+  border-right: solid rgb(109, 224, 224);
+  border-top:solid rgb(109, 224, 224);
+  box-shadow: 2px 3px 3px 6px rgb(109, 224, 224);;
+
 }
 
 thead {
@@ -9,8 +11,17 @@ thead {
     text-align:center;
     color: black;
 }
+thead>#create-anchor {
+    border-radius: 8px;
+    background:grey;
+    border :solid rgb(109, 224, 224);
+    border-radius: 8px;
+    
+
+}
 th > a{
     color: black;
+
 }
 td{
     text-align:center;
@@ -27,10 +38,15 @@ td a{
     padding:5px;
 }
 
-table{
 
 
-}
+
+
+/*table.profile-table{
+    position: absolute;
+    right: 0;
+
+}*/
 
 
 

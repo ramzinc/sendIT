@@ -6,23 +6,28 @@
 <link rel="stylesheet" href="styles/footer.css" />
 <link rel="stylesheet" href="styles/table.css" />
 <link rel="stylesheet" href="styles/modal.css"/>
+<link rel="stylesheet" href="styles/body.css"/>
+
+
   </head>
   <body>
   <header class="nav">
       <div class="logo">
-	<img src="images/logo.png" alt="senditlogo"/>
-     </div>
+	  <img src="images/logo.png" alt="senditlogo"/>
+      </div>
+      <div><h2>WELCOME USER</h2></div>
       <div class="signup-div">
 	<a href="index.html"> Log Out</a>
 
       </div>
   </header>
+
   <div class="content-body">
     <div class="table-div">
     <table class="parcels">
 	<thead>
-	    <tr colspan="1000">
-		<th><a href="#create-order">Create Order</a></th>
+	    <tr colspan="1000" id="create-anchor">
+	      <th><a href="#create-order"><h3>Create Order</h3></a></th>
 	    </tr>
 	  <tr>
 	      <th>Order Details</th>
@@ -155,7 +160,7 @@
 	      </div>
 	      <input type="submit" value="create">
 	  </div>
-
+ 
 	  
       </div>
       <div id="change-destination" class="modalDialog">
@@ -165,13 +170,28 @@
 	      <input type="submit" value="Change"/>
 	  </div> 
       </div>
-      <table class="profile-table">
-	
-
-	
-      </table>
       
 
+     <div class="table-div">
+      <table class="profile-table">
+	  
+	  <thead>
+	      <tr><th> <p><h3>Orders Delivered</h3></p></th></tr>
+	      <tr>
+		  <th>OrderDetails</th>
+		  <th>Delivered To</th>
+	      </tr>
+	  </thead>
+	  <tbody>
+	      <tr><td>Apple Air</td><td>Janat's Palace</td></tr>
+	      <tr><td>Big Balloon</td><td>Janat's Court</td></tr>
+	      <tr><td>Mazda RX</td><td>Arnolds Palace</td></tr>
+	      
+	  </tbody>
+	  
+	  
+      </table>
+      </div>
   </div><!---- end content-body --->
   
   <footer>
